@@ -1,3 +1,61 @@
 
 Hello world learning github changes
 xyq_vs_code_branch added, the code difference would be that in main there would be no commit of the xyq branch.
+
+
+Added one line -> The new line added will show in green shadow. The green shadow reflects the changes added.
+
+Will create new branch called github learning and will try to add it using via github.
+
+What does stage really means?               |
+--------------------------------------------|
+Stage = Present to judges.                  |
+
+Commit = Judges officially taste & score it.
+
+Push = Your dish gets broadcast to the whole competition.
+
+🔑 Key Idea
+
+Yes, you can stage multiple times before a single commit.
+Git lets you add to the staging area in batches until you’re satisfied with what should go into that commit.
+
+No, you don’t need to commit every tiny change.
+If you commit every character or whitespace change, your history becomes messy and hard to follow.
+
+⚖️ Best Practice Balance
+
+Small but meaningful commits
+----------------------------
+
+Each commit should represent one logical unit of work.
+------------------------------------------------------
+
+Example: “Fix login bug” or “Add profile picture upload feature.”
+
+Stage until the commit makes sense
+----------------------------------
+
+You can git add multiple times to gradually build the right set of changes.
+
+Once you’re confident — commit.
+
+Avoid two extremes
+
+❌ Too small: Committing after every single keystroke → noisy history.
+
+❌ Too big: One giant commit with 500 changes → impossible to review or roll back.
+
+✅ Just right: Each commit is atomic, self-contained, and meaningful.
+
+📌 Think of it like writing a book:
+
+Drafting sentences (working directory) = your live changes.
+
+Highlighting the right paragraphs (staging) = choosing what fits this chapter.
+
+Publishing the chapter (commit) = permanent snapshot.
+
+You wouldn’t publish after every comma, but also not after writing the entire book in one go.
+
+10:56 PM
