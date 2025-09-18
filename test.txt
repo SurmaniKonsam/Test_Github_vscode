@@ -57,3 +57,5 @@ Highlighting the right paragraphs (staging) = choosing what fits this chapter.
 Publishing the chapter (commit) = permanent snapshot.
 
 You wouldn’t publish after every comma, but also not after writing the entire book in one go.
+
+10:56 PM
